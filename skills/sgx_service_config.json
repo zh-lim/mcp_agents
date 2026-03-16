@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "sgx_service": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\Ensign\\Desktop\\sgx_service",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}
